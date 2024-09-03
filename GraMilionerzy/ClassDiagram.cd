@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gra">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAKIAAAAAQAUAAAAACBAAAAAkKCAAAAABgIAAAAA=</HashCode>
+      <FileName>Gra.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gra_jednoosobowa">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gra_jednoosobowa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gra_wieloosobowa">
+    <Position X="1.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Gra_wieloosobowa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gracz">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAAIAAAIAAAAAAAAAIAAAAAAAAAAAACIAIQAAAAgA=</HashCode>
+      <FileName>Gracz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jeden_gracz">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAABAAAAAAAAAAACAAAgABIAABAEgA=</HashCode>
+      <FileName>Jeden_gracz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kolo_ratunkowe">
+    <Position X="16.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAIAAAAABAQAAAAAAAABAAAABA=</HashCode>
+      <FileName>Kolo_ratunkowe.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prowadzacy">
+    <Position X="14.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAEAAAAAAAAAgACAAUBAAAAAAAQAAAAAAABBABA=</HashCode>
+      <FileName>Prowadzacy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pytanie">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgCAAIgQBAAAAAAAABAAAAAAAAAAACIAAAAAAABg=</HashCode>
+      <FileName>Pytanie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pytanie_jedengracz">
+    <Position X="10.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAEAAAAAAAAAgEAJAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Pytanie_jedengracz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pytanie_wielegraczy">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAJAAAAAAAAAAAAgAAAABAAAA=</HashCode>
+      <FileName>Pytanie_wielegraczy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wiele_graczy">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIACAAIAAAAAAAAAAAAACAAAAAAIAAAAAgA=</HashCode>
+      <FileName>Wiele_graczy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

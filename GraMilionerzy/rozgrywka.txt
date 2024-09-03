@@ -1,0 +1,80 @@
+19.05.2024 19:56:16 Rozpoczeto gre.
+19.05.2024 19:56:19 Wybor nazwy gracza: a
+19.05.2024 19:56:20 Wybor nazwy gracza: b
+19.05.2024 19:56:21 Wylosowanie pytania dla gracza a
+19.05.2024 19:56:22 Pobranie odpowiedzi gracza a
+19.05.2024 19:56:22 Poprawna odpowiedz udzielona przez gracza a
+19.05.2024 19:56:22 Czas odpowiedzi: 1.49
+19.05.2024 19:56:24 Wylosowanie pytania dla gracza b
+19.05.2024 19:56:25 Pobranie odpowiedzi gracza b
+19.05.2024 19:56:25 Niepoprawna odpowiedz udzielona przez gracza b
+19.05.2024 19:56:25 Czas odpowiedzi: 1.265
+19.05.2024 19:56:25 Wygrany gracz: a
+19.05.2024 19:56:25 Czas odpowiedzi wygranego gracza: 1.49
+19.05.2024 19:56:36 Wybor typu rozgrywki
+19.05.2024 19:56:42 Pobranie odpowiedzi gracza a
+19.05.2024 19:56:42 Podanie blednej odpowiedzi przez gracza a
+19.05.2024 19:56:42 Koniec rozgrywki gracza a
+19.05.2024 19:56:42 Wygrana: 0
+20.05.2024 17:40:50 Rozpoczeto gre.
+20.05.2024 17:40:52 Wybor nazwy gracza: abc
+20.05.2024 17:40:56 Wybor typu rozgrywki
+20.05.2024 17:41:07 Pobranie odpowiedzi gracza abc
+20.05.2024 17:41:07 Podanie prawidlowej odpowiedzi przez gracza abc
+20.05.2024 17:41:14 Pobranie odpowiedzi gracza abc
+20.05.2024 17:41:14 Podanie blednej odpowiedzi przez gracza abc
+20.05.2024 17:41:14 Koniec rozgrywki gracza abc
+20.05.2024 17:41:14 Wygrana: 0
+20.05.2024 17:41:39 Rozpoczeto gre.
+20.05.2024 17:41:40 Wybor nazwy gracza: a
+20.05.2024 17:41:41 Wybor typu rozgrywki
+20.05.2024 17:41:46 Pobranie odpowiedzi gracza a
+20.05.2024 17:41:46 Podanie blednej odpowiedzi przez gracza a
+20.05.2024 17:41:46 Koniec rozgrywki gracza a
+20.05.2024 17:41:46 Wygrana: 0
+20.05.2024 17:41:55 Rozpoczeto gre.
+20.05.2024 17:41:56 Wybor nazwy gracza: s
+20.05.2024 17:41:58 Wybor typu rozgrywki
+20.05.2024 17:42:01 Skorzytsanie z kola ratunkowego przez gracza s
+20.05.2024 17:42:06 Pobranie odpowiedzi gracza s
+20.05.2024 17:42:06 Podanie prawidlowej odpowiedzi przez gracza s
+20.05.2024 17:42:09 Koniec rozgrywki gracza s
+20.05.2024 17:42:09 Wygrana: 500
+20.05.2024 18:37:54 Rozpoczeto gre.
+20.05.2024 18:37:57 Wybor nazwy gracza: abc
+20.05.2024 18:38:05 Wybor typu rozgrywki
+20.05.2024 18:38:57 Pobranie odpowiedzi gracza abc
+20.05.2024 18:38:57 Podanie prawidlowej odpowiedzi przez gracza abc
+20.05.2024 18:39:02 Skorzytsanie z kola ratunkowego przez gracza abc
+20.05.2024 18:39:11 Pobranie odpowiedzi gracza abc
+20.05.2024 18:39:11 Podanie prawidlowej odpowiedzi przez gracza abc
+20.05.2024 18:39:11 Osiagniecie progu gwarantowanego przez gracza: abc
+20.05.2024 18:39:18 Pobranie odpowiedzi gracza abc
+20.05.2024 18:39:18 Podanie blednej odpowiedzi przez gracza abc
+20.05.2024 18:39:18 Koniec rozgrywki gracza abc
+20.05.2024 18:39:18 Wygrana: 1000
+20.05.2024 18:44:56 Rozpoczeto gre.
+20.05.2024 18:45:00 Wybor nazwy gracza: gracz1
+20.05.2024 18:45:02 Wybor nazwy gracza: gracz2
+20.05.2024 18:45:05 Wylosowanie pytania dla gracza gracz1
+20.05.2024 18:45:08 Pobranie odpowiedzi gracza gracz1
+20.05.2024 18:45:08 Niepoprawna odpowiedz udzielona przez gracza gracz1
+20.05.2024 18:45:08 Czas odpowiedzi: 3.32
+20.05.2024 18:45:10 Wylosowanie pytania dla gracza gracz2
+20.05.2024 18:45:59 Pobranie odpowiedzi gracza gracz2
+20.05.2024 18:45:59 Poprawna odpowiedz udzielona przez gracza gracz2
+20.05.2024 18:45:59 Czas odpowiedzi: 48.834
+20.05.2024 18:45:59 Wygrany gracz: gracz2
+20.05.2024 18:45:59 Czas odpowiedzi wygranego gracza: 48.834
+20.05.2024 18:46:31 Wybor typu rozgrywki
+20.05.2024 18:46:38 Pobranie odpowiedzi gracza gracz2
+20.05.2024 18:46:38 Podanie blednej odpowiedzi przez gracza gracz2
+20.05.2024 18:46:38 Koniec rozgrywki gracza gracz2
+20.05.2024 18:46:38 Wygrana: 0
+20.05.2024 18:59:52 Rozpoczeto gre.
+20.05.2024 18:59:54 Wybor nazwy gracza: h
+20.05.2024 18:59:57 Wybor typu rozgrywki
+20.05.2024 19:00:07 Pobranie odpowiedzi gracza h
+20.05.2024 19:00:07 Podanie blednej odpowiedzi przez gracza h
+20.05.2024 19:00:07 Koniec rozgrywki gracza h
+20.05.2024 19:00:07 Wygrana: 0

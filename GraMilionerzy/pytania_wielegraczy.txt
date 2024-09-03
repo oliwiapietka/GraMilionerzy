@@ -1,0 +1,5 @@
+101 Dopasuj politykow do kontynentow z ktorych pochodzili: afrykanski, azjatycki, europejski, południowoamerykanski. 1.Juan Peron 2.Hajle Sellajse 3.Konrad Adenauer 4.Mao Zedong 2431
+102 Dopasuj postacie historyczne do ich epok: Renesans, Starozytnosc, XX wiek, XIX wiek. 1.William Szekspir 2.Kleopatra 3.Napoleon Bonaparte 4.Mahatma Gandhi 1243
+103 Dopasuj marki samochodow do ich krajow pochodzenia: Japonia, Niemcy, Wlochy, Stany Zjednoczone. 1.Toyota 2.BMW 3.Ferrari 4.Jeep 1234
+104 Dopasuj naukowcow do ich dziedzin: Fizyka, Biologia, Chemia, Elektrotechnika. 1.Albert Einstein 2.Marie Sklodowska Curie 3.Charles Darwin 4.Nikola Tesla 1324
+105 Dopasuj kraje do ich narodowych potraw: Pizza, Sushi, Tacos, Curry 1.Indie 2.Japonia 3.Wlochy 4.Meksyk 3241

@@ -1,0 +1,97 @@
+GRA W TRYBIE JEDNOOSOBOWYM--------------------------------------------------------------------------------------
+
+Chcesz zagrac w wersje gry:
+1. Jednoosobowa:
+2. Wieloosobowa:
+1
+Podaj nazwe gracza: abc
+
+Czy gracz o nazwie: abc jest gotowy do gry? Podaj Y kiedy bedziesz gotowy: y
+
+Czy chcesz aby:
+1. Pytania stawaly sie trudniejsze stopniowo
+2. Wybrac poziom trudnosci (pytania pozostana na wybranym poziomie przez cala rozgrywke)
+1
+
+
+Pytanie o wartosci 500 zlotych:
+ Kto byl pierwszym czlowiekiem na Ksiezycu? 1.Neil Armstrong 2.Buzz Aldrin 3.Yuri Gagarin 4.Alan Shepard
+
+Czy chcesz skorzystac z kola ratunkowego? (Y/N)
+n
+
+Podaj odpowiedz: 1
+
+Chcesz:
+1. Kontynuowac gre
+2. Odejsc z wygrana 500 zlotych
+1
+
+
+Pytanie o wartosci 1000 zlotych:
+ Ktory z tych instrumentow muzycznych nalezy do instrumentow detych blaszanych? 1.Skrzypce 2.Trabka 3.Gitara 4.Flet
+
+Czy chcesz skorzystac z kola ratunkowego? (Y/N)
+y
+
+Podaj odpowiedz: 2
+
+Pytanie o wartosci 2000 zlotych:
+ Ktore z tych panstw nie posiada monarchii? 1.Wielka Brytania 2.Francja 3.Japonia 4.Szwecja
+
+Czy chcesz skorzystac z kola ratunkowego? (Y/N)
+n
+
+Podaj odpowiedz: 3
+
+Czy chcesz zagrac jeszcze raz? (y/n):
+n
+
+
+GRA W TRYBIE WIELOOSOBOWYM-----------------------------------------------------------------------------------
+
+Chcesz zagrac w wersje gry:
+1. Jednoosobowa:
+2. Wieloosobowa:
+2
+
+W ile osob chcesz zagrac (min 2, max 6):
+2
+Podaj nazwe gracza: gracz1
+Podaj nazwe gracza: gracz2
+
+Czy gracz o nazwie: gracz1 jest gotowy do gry? Podaj Y kiedy bedziesz gotowy: y
+
+ Dopasuj naukowcow do ich dziedzin: Fizyka, Biologia, Chemia, Elektrotechnika. 1.Albert Einstein 2.Marie Sklodowska Curie 3.Charles Darwin 4.Nikola Tesla
+1234
+
+Czy gracz o nazwie: gracz2 jest gotowy do gry? Podaj Y kiedy bedziesz gotowy: y
+
+ Dopasuj postacie historyczne do ich epok: Renesans, Starozytnosc, XX wiek, XIX wiek. 1.William Szekspir 2.Kleopatra 3.Napoleon Bonaparte 4.Mahatma Gandhi
+1243
+
+Czy gracz o nazwie: gracz2 jest gotowy do gry? Podaj Y kiedy bedziesz gotowy: y
+
+Czy chcesz aby:
+1. Pytania stawaly sie trudniejsze stopniowo
+2. Wybrac poziom trudnosci (pytania pozostana na wybranym poziomie przez cala rozgrywke)
+2
+
+Wybierz poziom gry:
+1. Latwy
+2. Sredni
+3. Trudny
+4. Zaawansowany
+3
+
+
+Pytanie o wartosci 500 zlotych:
+ Jak nazywa sie najwyzsza gora w Europie? 1.Mont Blanc 2.Matterhorn 3.Elbrus 4.Cervino
+
+Czy chcesz skorzystac z kola ratunkowego? (Y/N)
+n
+
+Podaj odpowiedz: 1
+
+Czy chcesz zagrac jeszcze raz? (y/n):
+n

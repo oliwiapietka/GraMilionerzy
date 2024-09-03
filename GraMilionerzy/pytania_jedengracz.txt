@@ -1,0 +1,100 @@
+1 Ktory z tych naukowcow jest znany z rownania E=mc2? 1.Nikola Tesla 2.Albert Einstein 3.Isaac Newton 4.Stephen Hawking 2
+2 Ktora planeta jest najblizsza Ziemi? 1.Wenus 2.Mars 3.Jowisz 4.Saturn 1
+3 Kto namalowal obraz "Mona Lisa"? 1.Leonardo da Vinci 2.Pablo Picasso 3.Vincent van Gogh 4.Michelangelo 1
+4 Ktore z tych miast jest stolica Australii? 1.Sydney 2.Canberra 3.Melbourne 4.Brisbane 2
+5 Ktore z tych panstw lezy na Polwyspie Iberyjskim? 1.Francja 2.Hiszpania 3.Włochy 4.Portugalia 2
+6 Kotry z tych oceanow jest największy pod wzgledem powierzchni? 1.Atlantycki 2.Spokojny 3.Indyjski 4.Arktyczny 2
+7 Kto napisal powiesc "Wojna i pokoj"? 1.Fiodor Dostojewski 2.Leo Tolstoj 3.Charles Dickens 4.Jane Austen 2
+8 Ktore z tych zwierzat jest najwieksze na ladzie? 1.Slon 2.Nosorozec 3.Hipopotam 4.Zyrafa 1
+9 Jakie jest najmniejsze panstwo na swiecie pod wzgledem powierzchni? 1.Rosja 2.Watykan 3.Monako 4.San Marino 2
+10 Ktore z tych miast jest znane jako "Miasto Milosci"? 1.Londyn 2.Paryż 3.Rzym 4.Barcelona 2
+11 Ktory pierwiastek chemiczny jest oznaczany symbolem "Fe"? 1.Wegiel 2.Zelazo 3.Fluor 4.Sod 2
+12 Jak nazywa się najwyzsza gora na Ziemi? 1. Mount Everest 2.K2 3.Annapurna 4.Mont Blanc 1
+13 Ktore z tych zwierzat jest najwieksze? 1.Slon 2.Nosorozec 3.Hipopotam 4.Zyrafa 1
+14 Kto byl pierwszym czlowiekiem na Ksiezycu? 1.Neil Armstrong 2.Buzz Aldrin 3.Yuri Gagarin 4.Alan Shepard 1
+15 Jak nazywa sie najwieksza wyspa na swiecie? 1.Australia 2.Grenlandia 3.Borneo 4.Madagaskar 2
+16 Ktory z tych instrumentow muzycznych nalezy do instrumentow detych blaszanych? 1.Skrzypce 2.Trabka 3.Gitara 4.Flet 2
+17 Ktory z tych językow jest najczesciej uzywany jako język miedzynarodowy w biznesie? 1.Angielski 2.Chinski 3.Francuski 4.Hiszpanski 1
+18 Ktore z tych panstw nie lezy w Europie? 1.Niemcy 2.Brazylia 3.Wlochy 4.Hiszpania 2
+19 Ktore z tych miast jest stolica Japonii? 1.Pekin 2.Tokio 3.Seul 4.Bangkok 2
+20 Ktory z tych oceanow lezy pomiedzy Ameryka Polnocną a Azja? 1.Atlantycki 2.Spokojny 3.Indyjski 4.Arktyczny 2
+21 Ktore z tych zjawisk atmosferycznych charakteryzuje się wirujacym wiatrem? 1.Tornado 2.Traba powietrzna 3.Huragan 4.Tsunami 1
+22 Ktora z tych planet jest najblizej Slonca? 1.Wenus 2.Mars 3.Jowisz 4.Merkury 4
+23 W ktorym roku odbyla sie pierwsza wyprawa Kolumba do Ameryki? 1.1492 2.1422 3.1512 4.1552 1
+24 Ktore z tych zwierzat nie jest ssakiem? 1.Rekin 2.Zyrafa 3.Delfin 4.Slon 1
+25 Jak nazywa się najwieksza rzeka w Afryce? 1.Nil 2.Kongo 3.Niger 4.Zambezi 1
+26 Ktore z tych panstw nie posiada monarchii? 1.Wielka Brytania 2.Francja 3.Japonia 4.Szwecja 2
+27 Ktora z tych planet jest najmniejsza w Ukladzie Slonecznym? 1.Neptun 2.Mars 3.Merkury 4.Pluton 3
+28 Ktory zespol muzyczny nagral album "The Dark Side of the Moon"? 1.The Beatles 2.Pink Floyd 3.Led Zeppelin 4.Queen 2
+29 Kto napisal dramat "Romeo i Julia"? 1.William Shakespeare 2.Antoni Czechow 3.Henrik Ibsen 4.Oscar Wilde 1
+30 W ktorym roku wybuchla II wojna swiatowa? 1.1939 2.1941 3.1945 4.1950 1
+31 Ktore z tych panstw graniczy z Polską na zachodzie? 1.Niemcy 2.Ukraina 3.Bialorus 4.Czechy 1
+32 Ktore z tych miast jest najwieksze pod względem populacji? 1.Pekin 2.Tokio 3.Delhi 4.Szanghaj 1
+33 Jak nazywa sie najwyzsza gora w Afryce? 1.Kilimandzaro 2.Mount Kenya 3.Rwenzori 4.Atlas 1
+34 Ktory zespol muzyczny jest znany z piosenki "Bohemian Rhapsody"? 1.The Beatles 2.Queen 3.Led Zeppelin 4.Pink Floyd 2
+35 Ktory z tych aktorów zagrał postac Jamesa Bonda w największej liczbie filmów? 1.Pierce Brosnan 2.Sean Connery 3.Daniel Craig 4.Roger Moore 2
+36 Ktory z tych jezykow jest oficjalnym jezykiem Chin? 1.Chinski mandarynski 2.Kantonski 3.Szanghajski 4.Hakka 1
+37 Ktory z tych sportow jest najpopularniejszy w Brazylii? 1.Pilka nożna 2.Siatkowka 3.Rugby 4.Baseball 1
+38 Jak nazywa się najweksze jezioro w Afryce? 1.Jezioro Wiktorii 2.Jezioro Tanganika 3.Jezioro Tanganika 4.Jezioro Malawi 1
+39 Ktory z tych polskich królów był pierwszym Elektorem Brandenburgii w I Rzeczypospolitej? 1.Zygmunt I Stary 2.August II Mocny 3.Jan III Sobieski 4.Wladyslaw IV Waza 4
+40 Ktory z tych filmów zdobył Nagrodę Akademii za najlepszy film w 2020 roku? 1."Parasite" 2."1917" 3."Nomadland" 4."Zielona Ksiega" 3
+41 Kto jest autorem "Odysei"? 1.Homer 2.Platon 3.Arystoteles 4.Sokrates 1
+42 Ktora z tych wysp jest największa pod względem powierzchni? 1.Grenlandia 2.Nowa Gwinea 3.Borneo 4.Madagascar 1
+43 Ktore z tych panstw lezy w Ameryce Poludniowej? 1.Egipt 2.Kolumbia 3.Kenia 4.Arabia Saudyjska 2
+44 W ktorym roku odbyla sie pierwsza misja na Ksiezyc? 1.1961 2.1969 3.1975 4.1983 2
+45 Ktore z tych miast jest stolica Kanady? 1.Vancouver 2.Ottawa 3.Toronto 4.Montreal 2
+46 Jak nazywa sie najdluzsza rzeka w Rosji? 1.Wolga 2.Don 3.Jenisej 4.Lena 1
+47 Ktory z tych filmow jest adaptacją powiesci Stephena Kinga? 1."The Shining" 2."Jurassic Park" 3."The Silence of the Lambs" 4."The Shawshank Redemption" 4
+48 Ktora z tych planet ma najwiecej ksiezycow? 1.Jowisz 2.Saturn 3.Uran 4.Neptun 1
+49 Ktory z tych zespolow muzycznych zostal zalozony przez Freddiego Mercury'ego? 1.The Rolling Stones 2.Queen 3.Led Zeppelin 4.Pink Floyd 2
+50 Ktory z tych krajow nie lezy w Europie? 1.Norwegia 2.Szwajcaria 3.Brazylia 4.Ukraina 3
+51 Ktore z tych miast jest najblizej rownika? 1.Nairobi 2.Kair 3.Sydney 4.Quito 4
+52 Kto jest autorem dzieła "Wladca Pierscieni"? 1.C.S. Lewis 2.J.R.R. Tolkien 3.George R.R. Martin 4.J.K. Rowling 2
+53 Ktora z tych rzek jest najdluzsza na swiecie? 1.Amazonka 2.Nil 3.Jangcy 4.Missisipi 1
+54 Ktore z tych panstw nie ma dostepu do morza? 1.Tuvalu 2.Boliwia 3.Jemen 4.Kolumbia 2
+55 Ktory z tych zespolow muzycznych jest znany z albumu "Abbey Road"? 1.The Beatles 2.Led Zeppelin 3.Pink Floyd 4.Queen 1
+56 Ktory z tych wynalazkow nie jest przypisany Thomasowi Edisonowi? 1.Telefon 2.Zarowka 3.Fonograf 4.Kinematograf 1
+57 Ktore z tych panstw graniczy z Rosja? 1.Szwecja 2.Norwegia 3.Turcja 4.Mongolia 4
+58 W ktorym roku miala miejsce bitwa pod Waterloo? 1.1805 2.1815 3.1820 4.1830 2
+59 Kto namalowal obraz "Nocne Kawiarnie"? 1.Vincent van Gogh 2.Pablo Picasso 3.Edvard Munch 4.Johannes Vermeer 1
+60 Ktory z tych polskich krolow byl pierwszym krolem elekcyjnym Polski? 1.Zygmunt Stary 2.August II Mocny 3.Jan III Sobieski 4.Henryk III Walezy 1
+61 Ktore z tych miast jest stolica Korei Poludniowej? 1.Busan 2.Seul 3.Taegu 4.Inchon 2
+62 Ktory z tych kompozytorow napisal "Trzecia Symfonie Eroiczna"? 1.Ludwig van Beethoven 2.Wolfgang Amadeusz Mozart 3.Johann Sebastian Bach 4.Fryderic Chopin 1
+63 Ktore z tych panstw leży na Polwyspie Balkanskim? 1.Portugalia 2.Hiszpania 3.Serbia 4.Dania 3
+64 W ktorym roku miala miejsce rewolucja francuska? 1.1776 2.1789 3.1804 4.1812 2
+65 Kto jest autorem "Zapiskow z martwego domu"? 1.Fiodor Dostojewski 2.Leo Tolstoj 3.Antoni Czechow 4.Maksym Gorki 1
+66 Ktora z tych planet jest najblizej Slonca? 1.Merkury 2.Wenus 3.Mars 4.Saturn 1
+67 Ktory zespol muzyczny nagral album "The Wall"? 1.The Beatles 2.Queen 3.Led Zeppelin 4.Pink Floyd 4
+68 Jak nazywa sie najwyzsza gora w Europie? 1.Mont Blanc 2.Matterhorn 3.Elbrus 4.Cervino 3
+69 Ktora z tych ksiazek nie jest dzielem Williama Szekspira? 1.Hamlet 2.Romeo i Julia 3.Odyseja 4.Makbet 3
+70 Ktore z tych panstw graniczy z Bialorusia? 1.Rumunia 2.Litwa 3.Finlandia 4.Slowacja 2
+71 Kto namalowal slynny obraz "Nocna Straz"? 1.Vincent van Gogh 2.Pablo Picasso 3.Rembrandt 4.Leonardo da Vinci 3
+72 Kto jest autorem teorii ewolucji przez dobor naturalny? 1.Charles Darwin 2.Gregor Mendel 3.Louis Pasteur 4.Alfred Wallace 1
+73 Ktore z tych panstw ma najwieksza liczbe wysp? 1.Filipiny 2.Indonezja 3.Japonia 4.Nowa Zelandia 2
+74 Ktore z tych panstw nie graniczy z Morzem Srodziemnym? 1.Hiszpania 2.Grecja 3.Austria 4.Turcja 3
+75 Ktory z tych artystow byl znany ze swojego cyklu obrazow "Sloneczniki"? 1.Vincent van Gogh 2.Claude Monet 3.Pablo Picasso 4.Salvador Dali 1
+76 Ktora z tych literatur nazywana jest "najstarszym dzielem literatury swiata"? 1."Epos o Gilgameszu" 2."Iliada" 3."Mahabharata" 4."Ksiega Mormona" 1
+77 Ktory z tych kompozytorow urodzil sie najpozniej? 1.Wolfgang Amadeusz Mozart 2.Ludwig van Beethoven 3.Fryderyk Chopin 4.Johann Sebastian Bach 3
+78 Ktore z tych panstw graniczy zarówno z Rosja, jak i z Chinami? 1.Mongolia 2.Kazachstan 3.Afganistan 4.Korea Północna 2
+79 Ktory z tych krolow nie panowal w Anglii? 1.Henryk VIII 2.Karol II 3.Ludwik XIV 4.Wilhelm Zdobywca 3
+80 Ktora z tych planet zostala odkryta jako ostatnia? 1.Wenus 2.Mars 3.Neptun 4.Uran 3
+81 Ktory z tych ksiezycow jest najwiekszy w Ukladzie Slonecznym? 1.Ganymedes 2.Tytan 3.Kallisto 4.Ksiezyc 1
+82 Ktore z tych panstw nie mialo kolonii w Afryce? 1.Francja 2.Wlochy 3.Niemcy 4.Rosja 4
+83 Ktore z tych dziel bylo dzielem Alberta Einsteina? 1."Teoria wzglednosci" 2."Mechanika kwantowa" 3."Teoria chaosu" 4."Teoria wielkiego wybuchu" 1
+84 Kto byl pierwszym czlowiekiem, ktory otrzymal Nagrode Nobla w dziedzinie literatury? 1.Ernest Hemingway 2.Rudyard Kipling 3.Winston Churchill 4.Mark Twain 2
+85 Ktore z tych miast jest najstarsze? 1.Ateny 2.Rzym 3.Kair 4.Jerozolima 4
+86 Ktore z tych jezykow nie nalezy do rodziny jezykow indoeuropejskich? 1.Chinski 2.Arabski 3.Hindi 4.Finno-ugryjski 4
+87 Ktore z tych panstw graniczy z Polska na poludniu? 1.Niemcy 2.Slowacja 3.Litwa 4.Bialorus 2
+88 Ktory z tych obiektow jest najmniejszy pod wzgledem masy? 1.Neutron 2.Elektron 3.Proton 4.Kwark 2
+89 Ktore z tych panstw nie jest czlonkiem Unii Europejskiej? 1.Wegry 2.Slowenia 3.Szwajcaria 4.Chorwacja 3
+90 Ktore z tych wydarzen mialo miejsce najpozniej? 1.Upadek Cesarstwa Rzymskiego 2.Odkrycie Ameryki przez Krzysztofa Kolumba 3.Rewolucja Francuska 4.Bitwa pod Waterloo 3
+91 Ktora z tych planet jest najwieksza pod wzgledem masy? 1.Jowisz 2.Saturn 3.Uran 4.Neptun 1
+92 Ktory z tych polskich astronomow odkryl planetoidę Pallas? 1.Nicolaus Copernicus 2.Johannes Hevelius 3.Tycho Brahe 4.Konstanty Tsiolkovsky 2
+93 Ktora z tych substancji chemicznych jest glownym skladnikiem szkla? 1.Azot 2.Wegiel 3.Krzem 4.Wapn 3
+94 Ktory z tych kompozytorow jest autorem "Trzeciej Symfonii Eroicznej"? 1.Ludwig van Beethoven 2.Wolfgang Amadeusz Mozart 3.Johann Sebastian Bach Fryderyk Chopin 1
+95 Ktory z tych aktorow zdobyl najwiecej Oscarow dla najlepszego aktora? 1.Tom Hanks 2.Jack Nicholson 3.Daniel Day-Lewis 4.Marlon Brando 3
+96 Ktora z tych literatur nazywana jest "najstarszym dzielem literatury swiata"? 1."Epos o Gilgameszu" 2."Iliada" 3."Mahabharata" 4."Księga Mormona" 1
+97 Kto byl pierwszym prezydentem Stanow Zjednoczonych? 1.Thomas Jefferson 2.George Washington 3.Abraham Lincoln 4.John Adams 2
+98 Ktore z tych panstw graniczy zarowno z Rosja, jak i z Chinami? 1.Mongolia 2.Kazachstan 3.Afganistan 4.Korea Polnocna 2
+99 Ktore z tych dziel jest nazywane "Ojcem wszystkich dramatow"? 1. "Odyseja" 2. "Iliada" 3. "Oidipus krol" 4. "Prometeusz skowany" 3
+100 Ktory z tych matematykow nie byl rownoczesnie filozofem? 1.Rene Descartes 2.Blaise Pascal 3.Carl Friedrich Gauss 4.Bertrand Russell 3
